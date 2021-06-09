@@ -1,0 +1,3 @@
+Todos:
+- Faça com que a página ocupe toda a altura disponível (para evitar que o fundo não ocupe todo o espaço)
+- shape outside
